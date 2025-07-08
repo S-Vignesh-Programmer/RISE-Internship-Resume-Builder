@@ -2,6 +2,8 @@
 
 Build your professional resume with **ATS (Applicant Tracking System) optimization**. This web app helps job seekers create a clean, structured, and easily scannable resume with multiple steps, live preview, and PDF download support.
 
+Live Link: (https://rise-resume-builder.netlify.app/)
+
 ## ✨ Features
 
 - Multi-step form (Personal Info, Summary, Education, Experience, Projects, Skills)
@@ -32,7 +34,7 @@ Build your professional resume with **ATS (Applicant Tracking System) optimizati
 - React.js
 - Tailwind CSS
 - React Hooks (`useState`, `useEffect`)
-- LocalStorage API
+
 
 ---
 
@@ -57,6 +59,7 @@ npm run dev
 Author
 
 Vignesh Java Full Stack Developer
+This project was created as part of the RISE Internship 2025
 
 License
 
