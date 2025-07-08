@@ -8,7 +8,6 @@ Build your professional resume with **ATS (Applicant Tracking System) optimizati
 - Responsive design (Mobile & Desktop optimized)
 - ATS-friendly structure
 - Live Preview & Download as PDF
-- LocalStorage support to auto-save progress
 - Built with React.js & Tailwind CSS
 
 ---
